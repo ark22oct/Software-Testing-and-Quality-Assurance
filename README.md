@@ -10,22 +10,22 @@ This project applies software testing practices to an open-source project, speci
 The project conducted testing on several features of Mindustry, including factory building, initialization, health and damage mechanics, tower defense mechanisms, and more. Test results were documented, including boundary value analysis for specific methods and logic-based testing for various scenarios. The project achieved close to 100% class coverage and 50% line coverage in the tested classes.
 
 ## Input Space Partitioning, applying Boundry Value Analysis Testing (onDestroyed() for constructBlock.java)
-<img width="1000" alt="Screen Shot 2024-05-02 at 5 19 36 PM" src="https://github.com/ark22oct/Software-Testing-and-Quality-Assurance/assets/77360623/05707f45-0b2a-4577-9352-cf77898f0ad2">
+<img width="800" alt="Screen Shot 2024-05-02 at 5 19 36 PM" src="https://github.com/ark22oct/Software-Testing-and-Quality-Assurance/assets/77360623/05707f45-0b2a-4577-9352-cf77898f0ad2">
 
 ## Control Flow Graph (onDestroyed() for constructBlock.java)
-<img width="1000" alt="Screen Shot 2024-05-02 at 5 25 10 PM" src="https://github.com/ark22oct/Software-Testing-and-Quality-Assurance/assets/77360623/f7526bd0-30a3-41bd-bef9-805190edf806">
+<img width="800" alt="Screen Shot 2024-05-02 at 5 25 10 PM" src="https://github.com/ark22oct/Software-Testing-and-Quality-Assurance/assets/77360623/f7526bd0-30a3-41bd-bef9-805190edf806">
 
 ## Data Flow Graph (Health.java & LiquidBlock.java)
-<img width="1000" alt="Screen Shot 2024-05-02 at 5 26 03 PM" src="https://github.com/ark22oct/Software-Testing-and-Quality-Assurance/assets/77360623/b4324777-62b6-42f2-a840-7c3330f3b42b">
-<img width="226" alt="Screen Shot 2024-05-02 at 5 33 51 PM" src="https://github.com/ark22oct/Software-Testing-and-Quality-Assurance/assets/77360623/9bc8d5a8-afad-4f20-b356-0a77bb950001">
+<img width="800" alt="Screen Shot 2024-05-02 at 5 26 03 PM" src="https://github.com/ark22oct/Software-Testing-and-Quality-Assurance/assets/77360623/b4324777-62b6-42f2-a840-7c3330f3b42b">
+<img width="800" alt="Screen Shot 2024-05-02 at 5 33 51 PM" src="https://github.com/ark22oct/Software-Testing-and-Quality-Assurance/assets/77360623/9bc8d5a8-afad-4f20-b356-0a77bb950001">
 
 
 ## Logic Based Testing (onDestroyed() for constructBlock.java)
-<img width="1000" alt="Screen Shot 2024-05-02 at 5 27 01 PM" src="https://github.com/ark22oct/Software-Testing-and-Quality-Assurance/assets/77360623/5e6529ca-6ca4-4d19-8e7c-3390d0f10bf5">
+<img width="800" alt="Screen Shot 2024-05-02 at 5 27 01 PM" src="https://github.com/ark22oct/Software-Testing-and-Quality-Assurance/assets/77360623/5e6529ca-6ca4-4d19-8e7c-3390d0f10bf5">
 
 ## Coverage Sample
-<img width="1000" alt="Screen Shot 2024-05-02 at 5 11 49 PM" src="https://github.com/ark22oct/Software-Testing-and-Quality-Assurance/assets/77360623/ba484f6a-7787-4479-8cd0-e980a0bba4fc">
-<img width="1000" alt="Screen Shot 2024-05-02 at 5 12 13 PM" src="https://github.com/ark22oct/Software-Testing-and-Quality-Assurance/assets/77360623/b9b18ec5-7524-43aa-a0c0-225ee15605f5">
+<img width="800" alt="Screen Shot 2024-05-02 at 5 11 49 PM" src="https://github.com/ark22oct/Software-Testing-and-Quality-Assurance/assets/77360623/ba484f6a-7787-4479-8cd0-e980a0bba4fc">
+<img width="800" alt="Screen Shot 2024-05-02 at 5 12 13 PM" src="https://github.com/ark22oct/Software-Testing-and-Quality-Assurance/assets/77360623/b9b18ec5-7524-43aa-a0c0-225ee15605f5">
 
 # Key Objectives:
 1. Developing a deep understanding of systematic methods to debug complex object oriented
