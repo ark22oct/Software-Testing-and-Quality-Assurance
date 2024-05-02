@@ -6,7 +6,7 @@ Exploring a diverse range of methodologies for verifying and validating software
 # Project (Software Testing Practices on Mindustry) Overview
 This project applies software testing practices to an open-source project, specifically targeting Mindustry, a factory-building game with tower defense and real-time strategy elements. Mindustry allows players to create complex supply chains, construct structures, and defend against enemy attacks. The objective is to thoroughly test various features of the game, identify faults, and propose improvements based on the findings. The primary objective of this project is to demonstrate the application of software testing practices, ***including unit testing, boundary value analysis, control flow testing, data flow testing, and logic-based testing***, on an open-source project like Mindustry. The focus is on testing critical features and functionalities to ensure the game operates as intended and to identify any potential issues or bugs.
 
-# Findings and Results
+## Findings and Results
 The project conducted testing on several features of Mindustry, including factory building, initialization, health and damage mechanics, tower defense mechanisms, and more. Test results were documented, including boundary value analysis for specific methods and logic-based testing for various scenarios. The project achieved close to 100% class coverage and 50% line coverage in the tested classes.
 
 ## Input Space Partitioning, applying Boundry Value Analysis Testing (onDestroyed() for constructBlock.java)
