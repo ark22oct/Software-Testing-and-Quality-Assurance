@@ -9,7 +9,7 @@ This project applies software testing practices to an open-source project, speci
 # Findings and Results
 The project conducted testing on several features of Mindustry, including factory building, initialization, health and damage mechanics, tower defense mechanisms, and more. Test results were documented, including boundary value analysis for specific methods and logic-based testing for various scenarios. The project achieved close to 100% class coverage and 50% line coverage in the tested classes.
 
-## Input Space Partitioning, Applying Boundry Value Analysis Testing (onDestroyed() for constructBlock.java)
+## Input Space Partitioning, applying Boundry Value Analysis Testing (onDestroyed() for constructBlock.java)
 <img width="1000" alt="Screen Shot 2024-05-02 at 5 19 36 PM" src="https://github.com/ark22oct/Software-Testing-and-Quality-Assurance/assets/77360623/05707f45-0b2a-4577-9352-cf77898f0ad2">
 
 ## Control Flow Graph (onDestroyed() for constructBlock.java)
